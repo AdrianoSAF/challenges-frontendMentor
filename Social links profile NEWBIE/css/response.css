@@ -1,0 +1,9 @@
+@media (max-width:376px){
+    .main-container{
+        background-color: hsl(0, 0%, 12%);
+        width: 70%;
+        margin: 1rem auto;
+        border-radius: 15px;
+        padding: 30px 10px;
+    }
+}
